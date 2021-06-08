@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    tools:context=".fragments.AllergyFragment"
+    android:background="@drawable/bottom_sheet_dialog_background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Allergens found:"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:paddingLeft="8dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="High risk of reaction:"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:textColor="#8E0303"
+        android:paddingLeft="8dp"/>
+    <TextView
+        android:id="@+id/tvHighRisk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Loading..."
+        android:textColor="#FF2323"
+        android:textSize="20sp"
+        android:padding="8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cross allergens:"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:textColor="#D69F00"
+        android:paddingLeft="8dp"/>
+    <TextView
+        android:id="@+id/tvCrossAllergens"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Loading..."
+        android:textColor="#8B8100"
+        android:textSize="20sp"
+        android:padding="8dp"/>
+
+</LinearLayout>

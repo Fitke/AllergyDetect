@@ -1,0 +1,94 @@
+Date : 2021-05-06 18:26:45
+Directory : c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app
+Total : 39 files,  1690 codes, 80 comments, 260 blanks, all 2030 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         11 |        858 |         69 |        208 |      1,135 |
+| XML      |         26 |        746 |         11 |         44 |        801 |
+| Groovy   |          1 |         47 |          0 |          8 |         55 |
+| JSON     |          1 |         39 |          0 |          0 |         39 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                    |         39 |      1,690 |         80 |        260 |      2,030 |
+| src                                                                                                                                  |         37 |      1,604 |         80 |        252 |      1,936 |
+| src\androidTest                                                                                                                      |          1 |         15 |          6 |          5 |         26 |
+| src\androidTest\java                                                                                                                 |          1 |         15 |          6 |          5 |         26 |
+| src\androidTest\java\com                                                                                                             |          1 |         15 |          6 |          5 |         26 |
+| src\androidTest\java\com\example                                                                                                     |          1 |         15 |          6 |          5 |         26 |
+| src\androidTest\java\com\example\allergydetect                                                                                       |          1 |         15 |          6 |          5 |         26 |
+| src\main                                                                                                                             |         35 |      1,580 |         69 |        244 |      1,893 |
+| src\main\java                                                                                                                        |          9 |        834 |         58 |        200 |      1,092 |
+| src\main\java\com                                                                                                                    |          9 |        834 |         58 |        200 |      1,092 |
+| src\main\java\com\example                                                                                                            |          9 |        834 |         58 |        200 |      1,092 |
+| src\main\java\com\example\allergydetect                                                                                              |          9 |        834 |         58 |        200 |      1,092 |
+| src\main\java\com\example\allergydetect\Helpers                                                                                      |          1 |        147 |         26 |         20 |        193 |
+| src\main\java\com\example\allergydetect\adapters                                                                                     |          1 |         68 |          0 |         21 |         89 |
+| src\main\java\com\example\allergydetect\fragments                                                                                    |          1 |         43 |          0 |         15 |         58 |
+| src\main\java\com\example\allergydetect\models                                                                                       |          1 |         29 |          0 |         12 |         41 |
+| src\main\res                                                                                                                         |         25 |        713 |         11 |         37 |        761 |
+| src\main\res\drawable                                                                                                                |         10 |        239 |          0 |          5 |        244 |
+| src\main\res\drawable-v24                                                                                                            |          1 |         30 |          0 |          0 |         30 |
+| src\main\res\layout                                                                                                                  |          7 |        379 |          0 |         30 |        409 |
+| src\main\res\menu                                                                                                                    |          1 |         11 |          0 |          1 |         12 |
+| src\main\res\mipmap-anydpi-v26                                                                                                       |          2 |         10 |          0 |          0 |         10 |
+| src\main\res\values                                                                                                                  |          3 |         33 |          6 |          1 |         40 |
+| src\main\res\values-night                                                                                                            |          1 |         11 |          5 |          0 |         16 |
+| src\test                                                                                                                             |          1 |          9 |          5 |          3 |         17 |
+| src\test\java                                                                                                                        |          1 |          9 |          5 |          3 |         17 |
+| src\test\java\com                                                                                                                    |          1 |          9 |          5 |          3 |         17 |
+| src\test\java\com\example                                                                                                            |          1 |          9 |          5 |          3 |         17 |
+| src\test\java\com\example\allergydetect                                                                                              |          1 |          9 |          5 |          3 |         17 |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                             | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\build.gradle                                                                | Groovy   |         47 |          0 |          8 |         55 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\google-services.json                                                        | JSON     |         39 |          0 |          0 |         39 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\androidTest\java\com\example\allergydetect\ExampleInstrumentedTest.java | Java     |         15 |          6 |          5 |         26 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\AndroidManifest.xml                                                | XML      |         33 |          0 |          7 |         40 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\Helpers\CloudFirestore.java         | Java     |        147 |         26 |         20 |        193 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\ListOfAllergens.java                | Java     |         60 |          0 |         18 |         78 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\LoginUser.java                      | Java     |         98 |         14 |         15 |        127 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\MainActivity.java                   | Java     |        203 |         17 |         53 |        273 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\RegisterUser.java                   | Java     |        106 |          0 |         23 |        129 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\UserActivity.java                   | Java     |         80 |          1 |         23 |        104 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\adapters\UserAllergensAdapter.java  | Java     |         68 |          0 |         21 |         89 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\fragments\AllergyFragment.java      | Java     |         43 |          0 |         15 |         58 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\java\com\example\allergydetect\models\User.java                    | Java     |         29 |          0 |         12 |         41 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable-v24\ic_launcher_foreground.xml                        | XML      |         30 |          0 |          0 |         30 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\blue_gradient.xml                                     | XML      |          9 |          0 |          0 |          9 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\bottom_sheet_dialog_background.xml                    | XML      |          8 |          0 |          1 |          9 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\grey_box_2.xml                                        | XML      |         16 |          0 |          1 |         17 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\grey_to_darkgrey.xml                                  | XML      |          9 |          0 |          0 |          9 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\greybox.xml                                           | XML      |          6 |          0 |          0 |          6 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\ic_baseline_search_24.xml                             | XML      |          5 |          0 |          1 |          6 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\ic_launcher_background.xml                            | XML      |        170 |          0 |          1 |        171 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\photo_button.xml                                      | XML      |          6 |          0 |          1 |          7 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\round_theme_button.xml                                | XML      |          5 |          0 |          0 |          5 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\drawable\theme_buttons.xml                                     | XML      |          5 |          0 |          0 |          5 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\layout\activity_list_of_allergens.xml                          | XML      |         22 |          0 |          3 |         25 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\layout\activity_login_user.xml                                 | XML      |         88 |          0 |          6 |         94 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\layout\activity_main.xml                                       | XML      |         37 |          0 |          4 |         41 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\layout\activity_register_user.xml                              | XML      |         78 |          0 |          6 |         84 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\layout\activity_user.xml                                       | XML      |         67 |          0 |          5 |         72 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\layout\fragment_allergy.xml                                    | XML      |         50 |          0 |          2 |         52 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\layout\fragment_user_allergens_addapter.xml                    | XML      |         37 |          0 |          4 |         41 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\menu\nav_menu.xml                                              | XML      |         11 |          0 |          1 |         12 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml                              | XML      |          5 |          0 |          0 |          5 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml                        | XML      |          5 |          0 |          0 |          5 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\values-night\themes.xml                                        | XML      |         11 |          5 |          0 |         16 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\values\colors.xml                                              | XML      |         12 |          0 |          0 |         12 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\values\strings.xml                                             | XML      |          4 |          1 |          0 |          5 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\main\res\values\themes.xml                                              | XML      |         17 |          5 |          1 |         23 |
+| c:\Users\algfit\Desktop\4_kursas\Bakid\AllergyDetect\app\src\test\java\com\example\allergydetect\ExampleUnitTest.java                | Java     |          9 |          5 |          3 |         17 |
+| Total                                                                                                                                |          |      1,690 |         80 |        260 |      2,030 |
++--------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
